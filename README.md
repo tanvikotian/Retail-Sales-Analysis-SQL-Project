@@ -54,3 +54,9 @@ The project uses a table named retail_sales with the following fields:
 
 ## Conclusion
 This project helped in understanding how SQL can be used for real-world retail data analysis and business intelligence. It also improved skills in database management, query writing, and data analysis.
+
+## Author
+
+**Tanvi Kishorkumar Kotian**
+- BCA Student
+- GitHub: https://github.com/tanvikotian
